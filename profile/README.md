@@ -9,13 +9,13 @@ The repositories here demonstrate the intersection of robust, production-grade m
 
 ## 🏗️ Core Expertise & Technology Stack
 
-### 1. AI Orchestration & Multi-Agent Workflows (2 Years)
+### 1. AI Orchestration & Multi-Agent Workflows
 Focused on stateful execution, autonomous task decomposition, and multi-agent routing configurations.
 * **Frameworks & Graphs:** LangChain, LangGraph, CrewAI, Google Agent-to-Agent framework.
 * **Orchestration & Tooling:** Multi-agent orchestration, Model Context Protocol (MCP) for secure tool/data access, OpenRouter API management.
 * **Core Concepts & Foundations:** Strong conceptual grounding in Machine Learning workflows, Deep Learning foundations, PyTorch, and Hugging Face model deployment/fine-tuning pipelines.
 
-### 2. Enterprise Backend & Middleware (18 Years)
+### 2. Enterprise Backend & Middleware
 Built on a foundation of decoupled microservices, API led-connectivity, and robust network communication.
 * **Java Ecosystem:** Java, Spring Boot microservices, secure data routing, and performance tuning (e.g., optimizing HTTP/network stack layers for latency reduction).
 * **Integration Architecture:** MuleSoft API design, ESB routing, webhook handling, and enterprise service orchestrations.
@@ -39,4 +39,3 @@ The projects pinned below are organized to demonstrate end-to-end data flow:
 
 ## 📬 Contact & Verification
 * **LinkedIn:** [Your LinkedIn Profile URL]
-* **GitHub Personal Profile:** [@your-personal-username]
